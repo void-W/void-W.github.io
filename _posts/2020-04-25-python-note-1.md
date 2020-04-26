@@ -2,7 +2,7 @@
 layout: post
 title: 'python学习笔记 1'
 date: 2020-04-25
-tags: python
+tags: python 学习笔记
 ---
 
 Python的变量不需要声明类型，那么引申出以下思考
